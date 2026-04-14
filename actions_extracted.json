@@ -1,0 +1,111 @@
+{
+  "1.1.1": [
+    "Mapear áreas descobertas e planejar a implantação das novas equipes de Saúde da Família",
+    "Dimensionar o pessoal necessário para compor as equipes e solicitar o provimento quando necessário",
+    "Revisar o cadastro territorial das equipes de Saúde da Família (eSF), ajustando a área de abrangência das equipes para garantir que o número de pessoas por equipe não exceda o limite preconizado"
+  ],
+  "1.1.2": [
+    "Elaborar um plano de recursos humanos que preveja a reposição de vagas de ACS abertas por aposentadoria, exoneração ou licenças de longa duração, minimizando a perda de cobertura",
+    "Dimensionar o pessoal necessário para compor as novas eSF e solicitar o provimento quando necessário"
+  ],
+  "1.1.3": [
+    "Solicitar junto ao Ministério da Saúde o credenciamento das novas equipes multiprofissionais de acordo com o cronograma de implantação",
+    "Mapear as áreas e Equipes de Saúde da Família (eSF) que mais necessitam de apoio matricial, definindo o tipo de eMulti a ser implantada em cada território para otimizar o uso do recurso",
+    "Realizar o dimensionamento de pessoal necessário para compor as equipes e solicitar o provimento quando necessário",
+    "Adquirir insumos, materiais de consumo e equipamentos de uso das eMultis"
+  ],
+  "1.1.4": [
+    "Elaborar, em parceria com as redes de Atenção à Saúde e a Secretaria Municipal de Assistência Social o Diagnóstico Situacional da população em situação de rua no município, identificando a localização, o perfil de saúde e as necessidades, para justificar tecnicamente a implantação da eCR",
+    "Solicitar o novo credenciamento ao Ministério da Saúde da equipe de Consultório na Rua (eCR) na plataforma e-GestorAPS",
+    "Realizar o dimensionamento de pessoal necessário para compor as equipes e solicitar o provimento quando necessário",
+    "Criar um fluxo de trabalho formal com a Assistência Social (Centro POP), Segurança Pública e ONGs que atuam com a população de rua, garantindo a retaguarda social e a segurança da equipe em campo",
+    "Aquirir um veículo adequado e seguro para o transporte da equipe e dos materiais de saúde, adaptado para o trabalho em diferentes pontos da cidade",
+    "Prover kits de saúde portáteis (medicamentos básicos, curativos, testes rápidos, aferição de pressão/glicemia) para garantir que a equipe tenha resolutividade básica no local de atendimento"
+  ],
+  "1.1.5": [
+    "Encaminhar processo para aquisição de veículos adaptados e exclusivos para o Transporte Sanitário Eletivo, em conformidade com as normas sanitárias e de acessibilidade vigentes",
+    "Garantir, anualmente na Programação Anual de Saúde (PAS), a previsão orçamentária para o custeio da frota, contemplando contratação/capacitação de motoristas, combustível, seguro, manutenção preventiva e corretiva dos veículos",
+    "Estabelecer plano de manutenção preventiva e escala de motoristas capacitados em direção defensiva e primeiros socorros para atuar nessas rotas específicas. Número de veículos de transporte sanitário eletivo adquiridos"
+  ],
+  "1.1.6": [
+    "Encaminhar processo para aquisição de frota específica e adaptada (veículos 4x4) de uso exclusivo das equipes da Atenção Primária à Saúde vinculadas às áreas rurais e de difícil acesso",
+    "Garantir, anualmente na Programação Anual de Saúde (PAS), a previsão orçamentária para o custeio da frota, contemplando contratação/capacitação de motoristas, combustível, seguro, manutenção preventiva e corretiva dos veículos",
+    "Estabelecer plano de manutenção preventiva e escala de motoristas capacitados em direção defensiva e primeiros socorros para atuar nessas rotas específicas"
+  ],
+  "1.1.7": [
+    "Definir a \"Cesta de Itens Prioritários\" por tipo de unidade, garantindo que itens críticos nunca fiquem abaixo do estoque de segurança",
+    "Estruturar e otimizar as rotas logísticas de distribuição entre a Central de Abastecimento Farmacêutico e o Almoxarifado e as Unidades Básicas de Saúde, garantindo que as cotas mensais de materiais cheguem nos prazos corretos",
+    "Encaminhar processo para aquisição de itens de custeio para a Atenção Primária à Saúde",
+    "Encaminhar processo para contratação de serviços de manutenção (refrigeração, impressão, equipamentos odontológicos e hospitalares) para as Unidades Básicas de Saúde"
+  ],
+  "1.1.8": [
+    "Realizar inventário físico, tecnológico e patrimonial em todas as UBS, atualizando as informações de equipamentos instalados diretamente no Sistema de Cadastro Nacional de Estabelecimentos de Saúde (CNES)",
+    "Encaminhar processo para aquisição de materiais permanentes, equipamentos médico-hospitalares, odontológicos, imobiliários e de tecnologia da informação (TI). Número de veículos próprios adquiridos para transporte das equipes da Atenção Primária. Índice de Abastecimento Prioritário (IAP) das Unidades Básicas de Saúde. Índice de Estruturação Patrimonial (IEP) das Unidades Básicas de Saúde",
+    "Encaminhar processo para executar reformas, ampliações e adequações elétricas/hidráulicas nas unidades existentes para que comportem as novas tecnologias adquiridas, garantindo a acessibilidade"
+  ],
+  "1.1.9": [
+    "Elaborar projeto de reforma das Unidades Básicas de Saúde de acordo com o cronograma da APS",
+    "Contratar empresa especializada para a reforma das UBS, de acordo com cronograma da APS",
+    "Adquirir equipamentos e materiais permanentes para as UBS"
+  ],
+  "1.1.12": [
+    "Reorganizar o processo de trabalho nas UBS para garantir acesso oportuno para demandas agudas e crônicas, minimizando a necessidade de busca por serviços de urgência e emergência hospitalar",
+    "Manter o serviço de acolhimento à demanda espontânea diariamente em todas as Unidades Básicas de Saúde",
+    "Identificar e realizar busca ativa de pacientes com condições crônicas de alto risco (diabetes e hipertensão descompensados), garantindo a captação e o acompanhamento regular",
+    "Realizar reuniões de análise de dados com as equipes, identificando as principais causas de ICSAP por território (UBS/eSF) para direcionar as ações de intervenção mais urgentes"
+  ],
+  "1.1.13": [
+    "Incluir a oferta de PICS (principalmente em grupo) no rol de serviços das equipes de Saúde da Família e das equipes multiprofissionais",
+    "Identificar e capacitar profissionais internos da rede (que já tenham experiência ou formação em PICS) para atuarem como facilitadores/instrutores no próprio município, promovendo a autonomia da gestão na Educação Permanente",
+    "Assegurar o registro correto de todas as sessões de PICS realizadas no SISAB, utilizando os códigos de procedimento específicos (Ficha de Atividade Coletiva ou Ficha de Atendimento Individual)",
+    "Adquirir materiais de consumo e equipamentos para a realização das PICS"
+  ],
+  "1.1.14": [
+    "Incluir a avaliação nutricional em todas consultas de rotina (pré-natal, puericultura, hipertensos, diabéticos) e atendimentos multidisciplinares",
+    "Integrar a avaliação nutricional a campanhas de vacinação e ações de prevenção em massa nas UBS e nos territórios (escolas, centros comunitários, comunidades rurais)",
+    "Prover novos equipamentos antropométricos e insumos de medição, acompanhando o cronograma de compras e manutenção preventiva para assegurar a continuidade do registro do estado nutricional nas UBS Número de atendimentos/ações de Práticas Integrativas e Complementares em Saúde (PICS) registrados na Atenção Primária à Saúde. Número de indivíduos com estado nutricional avaliado e registrado no sistema de vigilância alimentar e nutricional"
+  ],
+  "1.1.15": [
+    "Realizar uma ação assistencial com consultas e procedimentos de enfermagem, nutrição e dispensação de medicamentos a cada semestre",
+    "Realizar ações de acompanhamento das condicionalidades do Programa Bolsa Família (Pré-natal, situação vacinal, avaliação nutricional)",
+    "Realizar atendimentos odontológicos com atividades coletivas de escovação dental supervisionada"
+  ],
+  "1.1.18": [
+    "Capacitar as equipes de saúde sobre os procedimentos corretos de registro, a importância do acompanhamento e o preenchimento das condicionalidades de saúde",
+    "Pactuar com a Secretaria Municipal de Educação a solicitação do número do NIS no ato da matrícula dos alunos da rede pública de ensino, para o acompanhamento dos alunos beneficiários durante as ações do PSE",
+    "Implementar rotinas trimestrais de busca ativa focada nas famílias não acompanhadas",
+    "Realizar campanhas de comunicação contínuas nas UBS e canais digitais sobre a importância do acompanhamento de saúde para a permanência no PBF",
+    "Realizar mutirões em datas estratégicas para facilitar o acesso de famílias com dificuldade de comparecimento, principalmente aquelas que residem em áreas descobertas por equipes de Saúde da Família"
+  ],
+  "1.1.19": [
+    "Promover treinamento prático intensivo para os profissionais de saúde que realizam puericultura, abordando a aplicação, pontuação e interpretação do M-CHAT-R, bem como a comunicação sensível do resultado com as famílias",
+    "Incluir o M-CHAT-R na rotina de atendimento das consultas de puericultura na idade de 16 e 30 meses"
+  ],
+  "1.1.24": [
+    "Prover o acesso à primeira consulta de pré-natal até a 12ª semana de gestação",
+    "Identificar as gestantes que faltaram à consulta agendada e realizar a busca ativa para reagendamento do acompanhamento",
+    "Assegurar o fornecimento ininterrupto de insumos básicos (sulfato ferroso, ácido fólico)",
+    "Pactuar fluxo ágil dos exames laboratoriais de rotina (Tipagem Sanguínea, Glicemia, VDRL, Testes Rápidos)"
+  ],
+  "1.1.25": [
+    "Realizar grupos de saúde de adolescentes nas UBSs com temas diversos, incluindo prevenção de IST/AIDS, planejamento familiar, autocuidado e tomada de decisão responsável",
+    "Fortalecer parcerias institucionais no combate à violência sexual contra crianças e adolescentes",
+    "Monitorar a implementação do protocolo de escuta especializada de crianças e adolescentes vítimas ou testemunhas de violências nos serviços de saúde"
+  ],
+  "1.1.26": [
+    "Utilizar o sistema de informação da APS para gerar uma lista nominal de mulheres de 25 a 64 anos que não realizaram o exame nos últimos 36 meses e realizar a busca ativa",
+    "Realizar ações de saúde itinerantes ou educativas em locais com grande concentração de mulheres, oferecendo agendamento facilitado e material educativo Proporção de gestantes e puérperas acompanhadas de forma integral pela Atenção Primária à Saúde. Proporção de nascidos vivos de mães adolescentes de 10 a 19 anos em relação ao total de nascidos vivos no município. Ampliar o de exames de rastreamento de câncer de colo de útero de mulheres cadastradas na APS na faixa etária de 25 a 64 anos e com avaliação nos últimos 36 meses. de mulheres de 25 a 64 anos cadastradas na APS com exame de rastreamento do câncer de colo do útero solicitado, realizado ou avaliado nos últimos 36 meses",
+    "Organizar, pelo menos uma vez por mês, horários de atendimento estendidos nas UBS para a coleta de Papanicolau e outros exames ginecológicos, visando atender a população que trabalha em horário comercial",
+    "Analisar o de rastreamento separadamente por subgrupos (25-34 anos; 35-49 anos; 50-64 anos) para identificar onde a cobertura está mais crítica e direcionar campanhas específicas"
+  ],
+  "1.1.32": [
+    "Mapear áreas descobertas e planejar a implantação das novas equipes de Saúde Bucal",
+    "Dimensionar o pessoal necessário para compor as equipes e solicitar o provimento quando necessário",
+    "Vincular novas eSB às Equipes de Saúde da Família (eSF) em operação, assegurando o trabalho em conjunto no território e a adscrição de usuários",
+    "Elaborar um Plano de Investimento em Odontologia para a aquisição de novos equipamentos odontológicos (cadeiras, compressores, fotopolimerizadores) para as novas equipes",
+    "Prover a manutenção preventiva e corretiva dos consultórios em funcionamento;",
+    "Adquirir insumos, materiais de consumo e instrumentais odontológicos",
+    "Manter os atendimentos odontológicos realizados nas Unidades Odontológicas Móveis – UOMs",
+    "Realizar convênio com Laboratório Regional de Próteses Dentárias – LRPD"
+  ]
+}

@@ -1,0 +1,47 @@
+# Tasks
+
+- [x] Planning and Research
+    - [x] Research Gemini API for HTML analysis
+    - [x] Design database schema for site management
+    - [x] Update implementation plan with Gemini requirements
+- [x] Setup Project
+    - [x] Initialize Next.js project
+    - [x] Configure database (Prisma/SQLite)
+    - [x] Add Dockerfile and docker-compose.yml for Portainer support
+- [x] Implement Scraper Engine
+    - [x] Implement Playwright scraping logic
+    - [x] Integrate Gemini API for automatic selector detection
+    - [x] Add proxy support
+- [x] Build Dashboard
+    - [x] CRUD for sites and API keys
+    - [x] Progress indicators for active scraping
+- [x] Data Visualization
+    - [x] Create real Extractions page
+    - [x] Make results button more prominent in SiteCard
+    - [x] Add empty state handling for data view
+- [x] Sidebar Modules Implementation
+    - [x] Add Log model to Prisma schema
+    - [x] Create real "Sites Enfileirados" page
+    - [x] Create real "Gemini AI Logs" page
+    - [x] Integrate persistent logging into scraper actions
+- [x] Bulk Site Import
+    - [x] Create `bulkAddSites` server action
+    - [x] Implement `BulkAddModal` component
+    - [x] Add bulk import button to Dashboard/Sites page
+- [x] Site Editing
+    - [x] Create `updateSite` server action
+    - [x] Create `EditSiteModal` component
+    - [x] Add edit button to `SiteCard`
+    - [x] Add delete site functionality
+- [x] Gemini Integration Fixes
+    - [x] Force re-detection when instructions change
+    - [x] Add deep logging for AI discovery phase
+- [x] Scraper Engine Upgrades
+    - [x] Support multi-value extraction (lists)
+    - [x] Refine AI prompt for landing pages
+- [x] Final Documentation
+    - [x] Create PRD (Product Requirements Document)
+    - [x] Create Technical Specifications (Specs)
+    - [x] Update walkthrough with video script ideas
+    - [x] Document Gemini extraction logic
+
