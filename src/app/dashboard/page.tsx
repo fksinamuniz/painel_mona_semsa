@@ -2,7 +2,7 @@
 
 import { useSession, signOut } from "next-auth/react";
 import { useState, useEffect } from "react";
-import { LogOut, Target, ArrowLeft, FileText } from "lucide-react";
+import { LogOut, Target, ArrowLeft } from "lucide-react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 
@@ -42,7 +42,6 @@ export default function DashboardPage() {
           </h1>
         </div>
         <div className="flex items-center gap-4">
-
           <a
             href="https://digisusgmp.saude.gov.br/"
             target="_blank" rel="noopener noreferrer"
@@ -61,6 +60,27 @@ export default function DashboardPage() {
           </button>
         </div>
       </header>
+
+      {/* Alerta de Instrumentos Pendentes — prazos legais (PRC nº 1/2017 e LC 141/2012) */}
+      <div className="w-full bg-amber-50 border-b border-amber-200 px-6 py-3 flex items-start gap-3 shrink-0">
+        <span className="text-amber-500 mt-0.5 shrink-0 text-base">⚠</span>
+        <div className="flex-1 text-sm text-amber-900 leading-snug">
+          <p>
+            <strong>Atenção.</strong> Esta fase contém{" "}
+            <strong>2 instrumentos pendentes</strong> com prazo legal definido.
+          </p>
+          <div className="mt-2 flex flex-wrap gap-3">
+            {/* RAG 2025 — prazo 30/03/2026, hoje 15/04/2026 → ATRASADO */}
+            <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-red-100 border border-red-200 text-red-800 text-xs font-semibold">
+              🔴 RAG 2025 &mdash; Prazo: 30/03/2026 &mdash; <em>Atrasado</em>
+            </span>
+            {/* RDQA 1º Quadrimestre 2026 — prazo 31/05/2026 → A VENCER */}
+            <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-100 border border-amber-300 text-amber-800 text-xs font-semibold">
+              🟡 RDQA 1º Quad. 2026 &mdash; Prazo: 31/05/2026 &mdash; <em>A vencer</em>
+            </span>
+          </div>
+        </div>
+      </div>
 
       {/* Embedded External Project */}
       <main className="flex-1 w-full bg-white relative">
