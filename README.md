@@ -7,8 +7,7 @@ Esta ferramenta integra dados oficiais, automatiza a sincronização de metas e 
 ## 🌟 Principais Funcionalidades
 
 - **Monitoramento Integrado**: Acompanhamento em tempo real do Plano Municipal de Saúde (PMS) e Programação Anual de Saúde (PAS).
-- **Sincronização com DigiSUS**: Integração automática com o `Metas_DOMI.csv` e outros documentos oficiais.
-- **PAS 2026 Pré-configurado**: Injeção automática das atividades e ações preliminares para o ciclo 2026-2029.
+-- **PAS 2026 Pré-configurado**: Injeção automática das atividades e ações preliminares para o ciclo 2026-2029.
 - **Relatórios Automatizados**: Geração de relatórios com filtros avançados e exportação profissional para PDF.
 - **Interface Premium**: Design moderno com animações fluidas e alta performance.
 
