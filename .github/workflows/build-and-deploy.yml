@@ -1,0 +1,74 @@
+name: Build e Deploy
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        node-version: [18.x]
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Setup Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    
+    - name: Instalar dependências
+      run: npm install
+    
+    - name: Executar lint
+      run: npm run lint
+      continue-on-error: true
+    
+    - name: Build da aplicação
+      run: npm run build
+    
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: build-output
+        path: .next/
+    
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 18.x
+        cache: 'npm'
+    
+    - name: Instalar dependências
+      run: npm install
+    
+    - name: Download artifacts
+      uses: actions/download-artifact@v4
+      with:
+        name: build-output
+        path: .next/
+    
+    - name: Deploy para GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: .next/static/
+        force_orphan: true
+      if: always()
+    
+    - name: Notificar sucesso
+      run: echo "✅ Deploy concluído com sucesso!"
